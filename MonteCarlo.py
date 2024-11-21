@@ -4,7 +4,7 @@ import csv
 import multiprocessing as mp
 import time
 import os
-from itertools import combinations_with_replacement
+from itertools import combinations
 
 def initialize_bag():
     """Initialize the bag with the specified distribution of tiles."""
@@ -31,14 +31,14 @@ def generate_words_from_tiles(tiles, blank_count):
     # For each word length from 2 to min(7, number of tiles)
     for length in range(2, min(8, len(tiles) + 1)):
         # First, generate words without using blanks
-        for combo in combinations_with_replacement(real_tiles, length):
+        for combo in combinations(real_tiles, length):
             words.add(''.join(sorted(combo)))
         
         # If we have a blank, generate words using one blank
         if blank_count > 0:
             # For each possible length using one fewer real tile
             for base_length in range(max(1, length - 1), length):
-                for base_combo in combinations_with_replacement(real_tiles, base_length):
+                for base_combo in combinations(real_tiles, base_length):
                     # Get the unique set of letters we could add with the blank
                     possible_letters = set(['A', 'B', 'C', 'D', 'X', 'Y', 'Z', 'J', 'K'])
                     # Add each possible letter with the blank

@@ -1,0 +1,942 @@
+
+Spell Set Summary
+==================================================
+
+Spell Set #1 - AXJ
+------------------------------
+Spells:
+  DX       - Length: 2, Score: 45.137
+  BD       - Length: 2, Score: 61.873
+  AXY      - Length: 3, Score: 22.287
+  ABCZ     - Length: 4, Score: 21.833
+  AABCY    - Length: 5, Score: 7.579
+  ABBCCJ   - Length: 6, Score: 1.211
+  ABCDXXZ  - Length: 7, Score: 0.332
+  CDDJKYZ  - Length: 7, Score: 0.050
+  AABCDD   - Length: 6, Score: 3.247
+
+Summary:
+  Total Score: 163.549
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 2 words
+  Length 3: 1 words
+  Length 4: 1 words
+  Length 5: 1 words
+  Length 6: 2 words
+  Length 7: 2 words
+
+Letter Distribution:
+  A: 8
+  B: 7
+  C: 7
+  D: 7
+  J: 2
+  K: 1
+  X: 4
+  Y: 3
+  Z: 3
+
+==================================================
+
+Spell Set #2 - BYJ
+------------------------------
+Spells:
+  AB       - Length: 2, Score: 62.080
+  CKX      - Length: 3, Score: 15.037
+  ABD      - Length: 3, Score: 45.955
+  CDXY     - Length: 4, Score: 14.202
+  AAAYY    - Length: 5, Score: 0.826
+  ABBCDY   - Length: 6, Score: 3.652
+  BCCCCD   - Length: 6, Score: 0.516
+  BBDDJZZ  - Length: 7, Score: 0.039
+  ABDJXZ   - Length: 6, Score: 1.439
+
+Summary:
+  Total Score: 143.746
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 1 words
+  Length 3: 2 words
+  Length 4: 1 words
+  Length 5: 1 words
+  Length 6: 3 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 8
+  C: 7
+  D: 7
+  J: 2
+  K: 1
+  X: 3
+  Y: 4
+  Z: 3
+
+==================================================
+
+Spell Set #3 - CZJ
+------------------------------
+Spells:
+  AC       - Length: 2, Score: 62.142
+  BJY      - Length: 3, Score: 15.216
+  CCDX     - Length: 4, Score: 13.177
+  CDDD     - Length: 4, Score: 8.172
+  CCJZZ    - Length: 5, Score: 0.892
+  AABBZ    - Length: 5, Score: 4.291
+  ABBBBC   - Length: 6, Score: 0.535
+  AACDYYZ  - Length: 7, Score: 0.133
+  ADDKXX   - Length: 6, Score: 0.359
+
+Summary:
+  Total Score: 104.917
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 1 words
+  Length 3: 1 words
+  Length 4: 2 words
+  Length 5: 2 words
+  Length 6: 2 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 8
+  D: 7
+  J: 2
+  K: 1
+  X: 3
+  Y: 3
+  Z: 4
+
+==================================================
+
+Spell Set #4 - DXK
+------------------------------
+Spells:
+  BX       - Length: 2, Score: 45.057
+  AKZ      - Length: 3, Score: 15.356
+  AAAB     - Length: 4, Score: 8.067
+  ACXY     - Length: 4, Score: 14.276
+  ABBDD    - Length: 5, Score: 6.743
+  ACCDDY   - Length: 6, Score: 1.950
+  BBCJY    - Length: 5, Score: 3.022
+  CCCDDX   - Length: 6, Score: 0.668
+  BDDKXZZ  - Length: 7, Score: 0.060
+
+Summary:
+  Total Score: 95.199
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 1 words
+  Length 3: 1 words
+  Length 4: 2 words
+  Length 5: 2 words
+  Length 6: 2 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 7
+  D: 8
+  J: 1
+  K: 2
+  X: 4
+  Y: 3
+  Z: 3
+
+==================================================
+
+Spell Set #5 - BZK
+------------------------------
+Spells:
+  DJ       - Length: 2, Score: 33.056
+  ABX      - Length: 3, Score: 32.209
+  CDDD     - Length: 4, Score: 8.172
+  ABBBC    - Length: 5, Score: 4.619
+  CCDKZ    - Length: 5, Score: 3.010
+  ABCZ     - Length: 4, Score: 21.833
+  ABBYYZ   - Length: 6, Score: 0.596
+  AABCKXZ  - Length: 7, Score: 0.174
+  ACDDXY   - Length: 6, Score: 2.131
+
+Summary:
+  Total Score: 105.800
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 1 words
+  Length 3: 1 words
+  Length 4: 2 words
+  Length 5: 2 words
+  Length 6: 2 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 8
+  C: 7
+  D: 7
+  J: 1
+  K: 2
+  X: 3
+  Y: 3
+  Z: 4
+
+==================================================
+
+Spell Set #6 - CYK
+------------------------------
+Spells:
+  AX       - Length: 2, Score: 45.276
+  XY       - Length: 2, Score: 32.095
+  BD       - Length: 2, Score: 61.873
+  AAD      - Length: 3, Score: 29.547
+  AABC     - Length: 4, Score: 19.754
+  ACDDX    - Length: 5, Score: 7.694
+  ACDJK    - Length: 5, Score: 3.239
+  BBCDYY   - Length: 6, Score: 1.060
+  BBBCDYZ  - Length: 7, Score: 0.196
+  CCCKZZ   - Length: 6, Score: 0.116
+
+Summary:
+  Total Score: 200.850
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 3 words
+  Length 3: 1 words
+  Length 4: 1 words
+  Length 5: 2 words
+  Length 6: 2 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 8
+  D: 7
+  J: 1
+  K: 2
+  X: 3
+  Y: 4
+  Z: 3
+
+==================================================
+
+Spell Set #7 - DYJ
+------------------------------
+Spells:
+  KY       - Length: 2, Score: 22.470
+  AD       - Length: 2, Score: 62.196
+  BZ       - Length: 2, Score: 45.410
+  ABD      - Length: 3, Score: 45.955
+  ABBC     - Length: 4, Score: 19.786
+  BCDDX    - Length: 5, Score: 7.526
+  AABCDX   - Length: 6, Score: 3.548
+  ABCDJYZ  - Length: 7, Score: 0.416
+  ACJYYZ   - Length: 6, Score: 0.416
+  CCDDX    - Length: 5, Score: 4.331
+
+Summary:
+  Total Score: 212.054
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 3 words
+  Length 3: 1 words
+  Length 4: 1 words
+  Length 5: 2 words
+  Length 6: 2 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 7
+  D: 8
+  J: 2
+  K: 1
+  X: 3
+  Y: 4
+  Z: 3
+
+==================================================
+
+Spell Set #8 - AZK
+------------------------------
+Spells:
+  AB       - Length: 2, Score: 62.080
+  BC       - Length: 2, Score: 61.932
+  DDZ      - Length: 3, Score: 20.702
+  AKX      - Length: 3, Score: 15.076
+  DXYZ     - Length: 4, Score: 9.316
+  ABDY     - Length: 4, Score: 21.776
+  ACCDX    - Length: 5, Score: 7.680
+  ABCDJK   - Length: 6, Score: 1.438
+  ABBCCYZ  - Length: 7, Score: 0.332
+  AABCDZ   - Length: 6, Score: 3.615
+
+Summary:
+  Total Score: 203.947
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 2 words
+  Length 3: 2 words
+  Length 4: 2 words
+  Length 5: 1 words
+  Length 6: 2 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 8
+  B: 7
+  C: 7
+  D: 7
+  J: 1
+  K: 2
+  X: 3
+  Y: 3
+  Z: 4
+
+==================================================
+
+Spell Set #9 - AYJ
+------------------------------
+Spells:
+  BJ       - Length: 2, Score: 32.804
+  BZ       - Length: 2, Score: 45.410
+  CCD      - Length: 3, Score: 29.777
+  ACD      - Length: 3, Score: 45.925
+  BCCX     - Length: 4, Score: 13.145
+  BDXZ     - Length: 4, Score: 14.295
+  AABXY    - Length: 5, Score: 4.620
+  ABDDDD   - Length: 6, Score: 0.532
+  AAAYYZ   - Length: 6, Score: 0.193
+  ABCCJKY  - Length: 7, Score: 0.122
+
+Summary:
+  Total Score: 186.823
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 2 words
+  Length 3: 2 words
+  Length 4: 2 words
+  Length 5: 1 words
+  Length 6: 2 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 8
+  B: 7
+  C: 7
+  D: 7
+  J: 2
+  K: 1
+  X: 3
+  Y: 4
+  Z: 3
+
+==================================================
+
+Spell Set #10 - BXJ
+------------------------------
+Spells:
+  CY       - Length: 2, Score: 45.336
+  BZ       - Length: 2, Score: 45.410
+  ACX      - Length: 3, Score: 32.301
+  AABJ     - Length: 4, Score: 8.734
+  BDYY     - Length: 4, Score: 7.656
+  BCDZ     - Length: 4, Score: 21.679
+  ABDDJ    - Length: 5, Score: 4.955
+  ABBCZ    - Length: 5, Score: 7.632
+  ABCDKXX  - Length: 7, Score: 0.176
+  ACCDDX   - Length: 6, Score: 2.002
+
+Summary:
+  Total Score: 175.881
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 2 words
+  Length 3: 1 words
+  Length 4: 3 words
+  Length 5: 2 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 8
+  C: 7
+  D: 7
+  J: 2
+  K: 1
+  X: 4
+  Y: 3
+  Z: 3
+
+==================================================
+
+Spell Set #11 - CYJ
+------------------------------
+Spells:
+  BC       - Length: 2, Score: 61.932
+  BZ       - Length: 2, Score: 45.410
+  AAZ      - Length: 3, Score: 20.600
+  ABBB     - Length: 4, Score: 8.264
+  CCXY     - Length: 4, Score: 8.538
+  CDDKY    - Length: 5, Score: 2.992
+  ACCXY    - Length: 5, Score: 4.749
+  BDXZ     - Length: 4, Score: 14.295
+  AAACDD   - Length: 6, Score: 1.039
+  BCDDJJY  - Length: 7, Score: 0.042
+
+Summary:
+  Total Score: 167.861
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 2 words
+  Length 3: 1 words
+  Length 4: 3 words
+  Length 5: 2 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 8
+  D: 7
+  J: 2
+  K: 1
+  X: 3
+  Y: 4
+  Z: 3
+
+==================================================
+
+Spell Set #12 - DZJ
+------------------------------
+Spells:
+  BJ       - Length: 2, Score: 32.804
+  AAZ      - Length: 3, Score: 20.600
+  CDD      - Length: 3, Score: 29.656
+  DXY      - Length: 3, Score: 22.187
+  ABX      - Length: 3, Score: 32.209
+  ABCY     - Length: 4, Score: 21.667
+  CCDDZ    - Length: 5, Score: 4.360
+  BCCDDY   - Length: 6, Score: 1.938
+  ABBJXZZ  - Length: 7, Score: 0.063
+  AABCDK   - Length: 6, Score: 2.219
+
+Summary:
+  Total Score: 167.703
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 1 words
+  Length 3: 4 words
+  Length 4: 1 words
+  Length 5: 1 words
+  Length 6: 2 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 7
+  D: 8
+  J: 2
+  K: 1
+  X: 3
+  Y: 3
+  Z: 4
+
+==================================================
+
+Spell Set #13 - BYK
+------------------------------
+Spells:
+  AY       - Length: 2, Score: 45.432
+  ABX      - Length: 3, Score: 32.209
+  BCX      - Length: 3, Score: 32.101
+  BDK      - Length: 3, Score: 22.592
+  ACYY     - Length: 4, Score: 7.750
+  ABCZ     - Length: 4, Score: 21.833
+  ADDKX    - Length: 5, Score: 3.046
+  ACCDDZ   - Length: 6, Score: 1.961
+  ABBBD    - Length: 5, Score: 4.583
+  BCCDJYZ  - Length: 7, Score: 0.196
+
+Summary:
+  Total Score: 171.703
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 1 words
+  Length 3: 3 words
+  Length 4: 2 words
+  Length 5: 2 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 8
+  C: 7
+  D: 7
+  J: 1
+  K: 2
+  X: 3
+  Y: 4
+  Z: 3
+
+==================================================
+
+Spell Set #14 - CXK
+------------------------------
+Spells:
+  AD       - Length: 2, Score: 62.196
+  AXX      - Length: 3, Score: 12.301
+  BCY      - Length: 3, Score: 32.342
+  BCD      - Length: 3, Score: 45.701
+  CDXZ     - Length: 4, Score: 14.361
+  ABDYY    - Length: 5, Score: 4.326
+  BBCDX    - Length: 5, Score: 7.571
+  ACDZ     - Length: 4, Score: 21.697
+  ABBCCZ   - Length: 6, Score: 1.974
+  AACDJKK  - Length: 7, Score: 0.021
+
+Summary:
+  Total Score: 202.490
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 1 words
+  Length 3: 3 words
+  Length 4: 2 words
+  Length 5: 2 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 8
+  D: 7
+  J: 1
+  K: 2
+  X: 4
+  Y: 3
+  Z: 3
+
+==================================================
+
+Spell Set #15 - DXJ
+------------------------------
+Spells:
+  BC       - Length: 2, Score: 61.932
+  CDY      - Length: 3, Score: 32.335
+  CDZ      - Length: 3, Score: 32.445
+  ADDZ     - Length: 4, Score: 13.328
+  CDJX     - Length: 4, Score: 9.505
+  ABBZ     - Length: 4, Score: 13.182
+  CDXYY    - Length: 5, Score: 2.620
+  ABCX     - Length: 4, Score: 21.529
+  AABBDK   - Length: 6, Score: 1.125
+  AABCDJX  - Length: 7, Score: 0.380
+
+Summary:
+  Total Score: 188.381
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 1 words
+  Length 3: 2 words
+  Length 4: 4 words
+  Length 5: 1 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 7
+  D: 8
+  J: 2
+  K: 1
+  X: 4
+  Y: 3
+  Z: 3
+
+==================================================
+
+Spell Set #16 - AXK
+------------------------------
+Spells:
+  DY       - Length: 2, Score: 45.375
+  ACD      - Length: 3, Score: 45.925
+  BBXZ     - Length: 4, Score: 8.598
+  BCYZ     - Length: 4, Score: 14.291
+  CDKX     - Length: 4, Score: 9.411
+  AAZ      - Length: 3, Score: 20.600
+  BCDY     - Length: 4, Score: 21.580
+  BCDDK    - Length: 5, Score: 4.850
+  AAABCX   - Length: 6, Score: 1.249
+  AABCDJX  - Length: 7, Score: 0.380
+
+Summary:
+  Total Score: 172.259
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 1 words
+  Length 3: 2 words
+  Length 4: 4 words
+  Length 5: 1 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 8
+  B: 7
+  C: 7
+  D: 7
+  J: 1
+  K: 2
+  X: 4
+  Y: 3
+  Z: 3
+
+==================================================
+
+Spell Set #17 - AZJ
+------------------------------
+Spells:
+  BD       - Length: 2, Score: 61.873
+  BY       - Length: 2, Score: 45.244
+  AB       - Length: 2, Score: 62.080
+  CX       - Length: 2, Score: 45.045
+  BCJ      - Length: 3, Score: 22.649
+  AAZ      - Length: 3, Score: 20.600
+  BCCY     - Length: 4, Score: 13.342
+  BCDKZ    - Length: 5, Score: 5.321
+  ACCDDX   - Length: 6, Score: 2.002
+  AAAADXY  - Length: 7, Score: 0.040
+  BDDJZZ   - Length: 6, Score: 0.335
+
+Summary:
+  Total Score: 278.531
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 4 words
+  Length 3: 2 words
+  Length 4: 1 words
+  Length 5: 1 words
+  Length 6: 2 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 8
+  B: 7
+  C: 7
+  D: 7
+  J: 2
+  K: 1
+  X: 3
+  Y: 3
+  Z: 4
+
+==================================================
+
+Spell Set #18 - BZJ
+------------------------------
+Spells:
+  AC       - Length: 2, Score: 62.142
+  CD       - Length: 2, Score: 61.968
+  KY       - Length: 2, Score: 22.470
+  AB       - Length: 2, Score: 62.080
+  CDX      - Length: 3, Score: 32.096
+  ABDX     - Length: 4, Score: 21.540
+  BCDD     - Length: 4, Score: 19.656
+  ABCDJ    - Length: 5, Score: 8.637
+  ABDYZ    - Length: 5, Score: 8.339
+  ABCJYZZ  - Length: 7, Score: 0.099
+  ABBCXZ   - Length: 6, Score: 2.212
+
+Summary:
+  Total Score: 301.239
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 4 words
+  Length 3: 1 words
+  Length 4: 2 words
+  Length 5: 2 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 8
+  C: 7
+  D: 7
+  J: 2
+  K: 1
+  X: 3
+  Y: 3
+  Z: 4
+
+==================================================
+
+Spell Set #19 - CXJ
+------------------------------
+Spells:
+  AY       - Length: 2, Score: 45.432
+  BD       - Length: 2, Score: 61.873
+  CX       - Length: 2, Score: 45.045
+  JY       - Length: 2, Score: 22.717
+  BBD      - Length: 3, Score: 29.702
+  ACXZ     - Length: 4, Score: 14.346
+  ABBDY    - Length: 5, Score: 7.722
+  ABDZ     - Length: 4, Score: 21.731
+  ABCDX    - Length: 5, Score: 13.037
+  ACDDJXZ  - Length: 7, Score: 0.215
+  ACCCCK   - Length: 6, Score: 0.172
+
+Summary:
+  Total Score: 261.992
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 4 words
+  Length 3: 1 words
+  Length 4: 2 words
+  Length 5: 2 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 8
+  D: 7
+  J: 2
+  K: 1
+  X: 4
+  Y: 3
+  Z: 3
+
+==================================================
+
+Spell Set #20 - DYK
+------------------------------
+Spells:
+  YZ       - Length: 2, Score: 32.185
+  BY       - Length: 2, Score: 45.244
+  BD       - Length: 2, Score: 61.873
+  CDK      - Length: 3, Score: 22.633
+  ACD      - Length: 3, Score: 45.925
+  BDX      - Length: 3, Score: 32.203
+  AADY     - Length: 4, Score: 13.138
+  CCDDZ    - Length: 5, Score: 4.360
+  BBCCJ    - Length: 5, Score: 2.790
+  ABCDKXZ  - Length: 7, Score: 0.396
+  AAABXY   - Length: 6, Score: 0.694
+
+Summary:
+  Total Score: 261.441
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 3 words
+  Length 3: 3 words
+  Length 4: 1 words
+  Length 5: 2 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 7
+  D: 8
+  J: 1
+  K: 2
+  X: 3
+  Y: 4
+  Z: 3
+
+==================================================
+
+Spell Set #21 - BXK
+------------------------------
+Spells:
+  AB       - Length: 2, Score: 62.080
+  CZ       - Length: 2, Score: 45.435
+  BD       - Length: 2, Score: 61.873
+  ACZ      - Length: 3, Score: 32.479
+  CYY      - Length: 3, Score: 12.278
+  AABD     - Length: 4, Score: 19.649
+  ACDZ     - Length: 4, Score: 21.697
+  ABDDY    - Length: 5, Score: 7.676
+  BCXX     - Length: 4, Score: 7.516
+  ABCCDK   - Length: 6, Score: 2.256
+  BBDJKXX  - Length: 7, Score: 0.033
+
+Summary:
+  Total Score: 272.972
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 3 words
+  Length 3: 2 words
+  Length 4: 3 words
+  Length 5: 1 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 8
+  C: 7
+  D: 7
+  J: 1
+  K: 2
+  X: 4
+  Y: 3
+  Z: 3
+
+==================================================
+
+Spell Set #22 - CZK
+------------------------------
+Spells:
+  AZ       - Length: 2, Score: 45.515
+  AB       - Length: 2, Score: 62.080
+  CZ       - Length: 2, Score: 45.435
+  BCD      - Length: 3, Score: 45.701
+  CCYZ     - Length: 4, Score: 8.701
+  ADYZ     - Length: 4, Score: 14.434
+  BBBK     - Length: 4, Score: 3.579
+  DJX      - Length: 3, Score: 15.301
+  CDDXY    - Length: 5, Score: 4.700
+  ABCDDX   - Length: 6, Score: 3.675
+  AAABCCK  - Length: 7, Score: 0.092
+
+Summary:
+  Total Score: 249.213
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 3 words
+  Length 3: 2 words
+  Length 4: 3 words
+  Length 5: 1 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 8
+  D: 7
+  J: 1
+  K: 2
+  X: 3
+  Y: 3
+  Z: 4
+
+==================================================
+
+Spell Set #23 - DZK
+------------------------------
+Spells:
+  AY       - Length: 2, Score: 45.432
+  BZ       - Length: 2, Score: 45.410
+  ACD      - Length: 3, Score: 45.925
+  ADX      - Length: 3, Score: 32.327
+  CZ       - Length: 2, Score: 45.435
+  BDZ      - Length: 3, Score: 32.415
+  CJXZ     - Length: 4, Score: 6.064
+  ABCCC    - Length: 5, Score: 4.558
+  ABBDX    - Length: 5, Score: 7.583
+  AABDDD   - Length: 6, Score: 1.118
+  BCDKYYZ  - Length: 7, Score: 0.101
+
+Summary:
+  Total Score: 266.368
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 3 words
+  Length 3: 3 words
+  Length 4: 1 words
+  Length 5: 2 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 7
+  B: 7
+  C: 7
+  D: 8
+  J: 1
+  K: 1
+  X: 3
+  Y: 3
+  Z: 5
+
+==================================================
+
+Spell Set #24 - AYK
+------------------------------
+Spells:
+  BK       - Length: 2, Score: 32.668
+  KX       - Length: 2, Score: 22.547
+  ADY      - Length: 3, Score: 32.596
+  BZZ      - Length: 3, Score: 12.241
+  CXY      - Length: 3, Score: 22.120
+  ABDD     - Length: 4, Score: 19.768
+  DXY      - Length: 3, Score: 22.187
+  AABC     - Length: 4, Score: 19.754
+  ABDDZ    - Length: 5, Score: 7.740
+  AABCDJY  - Length: 7, Score: 0.361
+  ABCCCC   - Length: 6, Score: 0.524
+
+Summary:
+  Total Score: 192.506
+  Total Length: 42
+
+Length Distribution:
+  Length 2: 2 words
+  Length 3: 4 words
+  Length 4: 2 words
+  Length 5: 1 words
+  Length 6: 1 words
+  Length 7: 1 words
+
+Letter Distribution:
+  A: 8
+  B: 7
+  C: 7
+  D: 7
+  J: 1
+  K: 2
+  X: 3
+  Y: 4
+  Z: 3
+
+==================================================
